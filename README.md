@@ -53,6 +53,20 @@ The application will automatically open at [http://localhost:3000](http://localh
 
 ---
 
+## 🧮 Algorithms
+
+FatePick implements mathematically sound algorithms to ensure fairness and eliminate bias:
+
+*   **Fisher-Yates Shuffle:** Industry-standard algorithm for unbiased randomization
+*   **Random Selection:** Uniform distribution for single winner selection
+*   **Team Formation:** Balanced grouping with random distribution
+*   **Round-Robin Distribution:** Fair topic assignment with topic reuse handling
+*   **Team-Topic Allocation:** Combined team formation and topic assignment
+
+📖 **[View Detailed Algorithm Documentation](ALGORITHMS.md)**
+
+---
+
 ## 📄 License
 
 Distributed under the **MIT License**.
